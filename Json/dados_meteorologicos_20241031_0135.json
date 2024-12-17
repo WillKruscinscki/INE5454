@@ -1,0 +1,731 @@
+{
+    "Florianopolis_Climatempo": {
+        "temperatura": "22",
+        "umidade": "78",
+        "vento": "0 - 6",
+        "qualidade_do_ar": "Bom",
+        "sensacao_termica": "22",
+        "URL": "https://www.climatempo.com.br/previsao-do-tempo/agora/cidade/377/florianopolis-sc",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Florianopolis_AccuWeather": {
+        "temperatura": "20",
+        "umidade": "92",
+        "vento": "12 - 25",
+        "qualidade_do_ar": "Razoavel",
+        "sensacao_termica": "20",
+        "URL": "https://www.accuweather.com/pt/br/florian%C3%B3polis/35952/weather-forecast/35952",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Florianopolis_Weather": {
+        "temperatura": "22",
+        "umidade": "80",
+        "vento": "8",
+        "qualidade_do_ar": "Moderate",
+        "sensacao_termica": "22",
+        "URL": "https://weather.com/weather/today/l/f136064ba28b472963a7ad219e64ce7ef8eb6cda4c4a59ec8c970f04935c3b12",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Rio Branco_Climatempo": {
+        "temperatura": "25",
+        "umidade": "85",
+        "vento": "0 - 3",
+        "qualidade_do_ar": "Satisfatorio",
+        "sensacao_termica": "25",
+        "URL": "https://www.climatempo.com.br/previsao-do-tempo/agora/cidade/6/riobranco-ac",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Rio Branco_AccuWeather": {
+        "temperatura": "26",
+        "umidade": "88",
+        "vento": "4 - 4",
+        "qualidade_do_ar": "Razoavel",
+        "sensacao_termica": "31",
+        "URL": "https://www.accuweather.com/pt/br/rio-branco/31909/weather-forecast/31909",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Rio Branco_Weather": {
+        "temperatura": "26",
+        "umidade": "87",
+        "vento": "3",
+        "qualidade_do_ar": "Unhealthy for Sensitive Groups",
+        "sensacao_termica": "29",
+        "URL": "https://weather.com/weather/today/l/f0c338d561d8b63c6554b4c045714d8407e30bce71f9e73e8883f5d25d5f5335",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Maceio_Climatempo": {
+        "temperatura": "22",
+        "umidade": "94",
+        "vento": "0 - 4",
+        "qualidade_do_ar": "Bom",
+        "sensacao_termica": "22",
+        "URL": "https://www.climatempo.com.br/previsao-do-tempo/agora/cidade/8/maceio-al",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Maceio_AccuWeather": {
+        "temperatura": "24",
+        "umidade": "90",
+        "vento": "10 - 19",
+        "qualidade_do_ar": "Razoavel",
+        "sensacao_termica": "26",
+        "URL": "https://www.accuweather.com/pt/br/macei%C3%B3/31913/weather-forecast/31913",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Maceio_Weather": {
+        "temperatura": "24",
+        "umidade": "81",
+        "vento": "8",
+        "qualidade_do_ar": "Moderate",
+        "sensacao_termica": "24",
+        "URL": "https://weather.com/weather/today/l/27967df8965052eefe41ce886462ac62a51e7c9b825d61e2b66796cb94ffe108",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Macapa_Climatempo": {
+        "temperatura": "29",
+        "umidade": "79",
+        "vento": "0 - 26",
+        "qualidade_do_ar": "Bom",
+        "sensacao_termica": "29",
+        "URL": "https://www.climatempo.com.br/previsao-do-tempo/agora/cidade/39/macapa-ap",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Macapa_AccuWeather": {
+        "temperatura": "28",
+        "umidade": "78",
+        "vento": "15 - 15",
+        "qualidade_do_ar": "Razoavel",
+        "sensacao_termica": "31",
+        "URL": "https://www.accuweather.com/pt/br/macap%C3%A1/64/weather-forecast/64",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Macapa_Weather": {
+        "temperatura": "28",
+        "umidade": "80",
+        "vento": "14",
+        "qualidade_do_ar": "Moderate",
+        "sensacao_termica": "32",
+        "URL": "https://weather.com/weather/today/l/f9827cbb650b622e5350dffb389fbfcc8ea269ec422a956f31e3183886dcea11",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Manaus_Climatempo": {
+        "temperatura": "28",
+        "umidade": "82",
+        "vento": "0 - 8",
+        "qualidade_do_ar": "Satisfatorio",
+        "sensacao_termica": "28",
+        "URL": "https://www.climatempo.com.br/previsao-do-tempo/agora/cidade/25/manaus-am",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Manaus_AccuWeather": {
+        "temperatura": "27",
+        "umidade": "80",
+        "vento": "9 - 21",
+        "qualidade_do_ar": "Razoavel",
+        "sensacao_termica": "31",
+        "URL": "https://www.accuweather.com/pt/br/manaus/42471/weather-forecast/42471",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Manaus_Weather": {
+        "temperatura": "27",
+        "umidade": "79",
+        "vento": "5",
+        "qualidade_do_ar": "Unhealthy for Sensitive Groups",
+        "sensacao_termica": "31",
+        "URL": "https://weather.com/weather/today/l/ebb70a47505c2e81f1fcd94e033f8772c66512a6f19efc3ed49152aede4c5aa3",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Salvador_Climatempo": {
+        "temperatura": "26",
+        "umidade": "78",
+        "vento": "0 - 12",
+        "qualidade_do_ar": "Bom",
+        "sensacao_termica": "26",
+        "URL": "https://www.climatempo.com.br/previsao-do-tempo/agora/cidade/56/salvador-ba",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Salvador_AccuWeather": {
+        "temperatura": "25",
+        "umidade": "80",
+        "vento": "26 - 37",
+        "qualidade_do_ar": "Razoavel",
+        "sensacao_termica": "25",
+        "URL": "https://www.accuweather.com/pt/br/salvador/43080/weather-forecast/43080",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Salvador_Weather": {
+        "temperatura": "26",
+        "umidade": "76",
+        "vento": "18",
+        "qualidade_do_ar": "Moderate",
+        "sensacao_termica": "28",
+        "URL": "https://weather.com/weather/today/l/4720afa14025b1e42377928acef9681e75073ea7e797901ebbe6eca20217d795",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Fortaleza_Climatempo": {
+        "temperatura": "26",
+        "umidade": "72",
+        "vento": "0 - 11",
+        "qualidade_do_ar": "Bom",
+        "sensacao_termica": "26",
+        "URL": "https://www.climatempo.com.br/previsao-do-tempo/agora/cidade/60/fortaleza-ce",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Fortaleza_AccuWeather": {
+        "temperatura": "26",
+        "umidade": "78",
+        "vento": "20 - 20",
+        "qualidade_do_ar": "Razoavel",
+        "sensacao_termica": "28",
+        "URL": "https://www.accuweather.com/pt/br/fortaleza/43346/weather-forecast/43346",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Fortaleza_Weather": {
+        "temperatura": "26",
+        "umidade": "77",
+        "vento": "21",
+        "qualidade_do_ar": "Good",
+        "sensacao_termica": "29",
+        "URL": "https://weather.com/weather/today/l/a8a5be4ff3cb2d667b3f96d88877af861f3cd39260fd1764ed6e144c93e05112",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Brasilia_Climatempo": {
+        "temperatura": "20",
+        "umidade": "92",
+        "vento": "0 - 4",
+        "qualidade_do_ar": "Satisfatorio",
+        "sensacao_termica": "20",
+        "URL": "https://www.climatempo.com.br/previsao-do-tempo/agora/cidade/61/brasilia-df",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Brasilia_AccuWeather": {
+        "temperatura": "20",
+        "umidade": "90",
+        "vento": "10 - 15",
+        "qualidade_do_ar": "Razoavel",
+        "sensacao_termica": "20",
+        "URL": "https://www.accuweather.com/pt/br/bras%C3%ADlia/43348/weather-forecast/43348",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Brasilia_Weather": {
+        "temperatura": "19",
+        "umidade": "96",
+        "vento": "8",
+        "qualidade_do_ar": "Good",
+        "sensacao_termica": "19",
+        "URL": "https://weather.com/weather/today/l/5b80e46d142343b74abb00becae2015ad3287f0019e945babb76970851501713",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Vitoria_Climatempo": {
+        "temperatura": "22",
+        "umidade": "92",
+        "vento": "0 - 18",
+        "qualidade_do_ar": "Bom",
+        "sensacao_termica": "22",
+        "URL": "https://www.climatempo.com.br/previsao-do-tempo/agora/cidade/84/vitoria-es",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Vitoria_AccuWeather": {
+        "temperatura": "22",
+        "umidade": "92",
+        "vento": "13 - 30",
+        "qualidade_do_ar": "Razoavel",
+        "sensacao_termica": "21",
+        "URL": "https://www.accuweather.com/pt/br/vit%C3%B3ria/32929/weather-forecast/32929",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Vitoria_Weather": {
+        "temperatura": "22",
+        "umidade": "88",
+        "vento": "14",
+        "qualidade_do_ar": "Good",
+        "sensacao_termica": "22",
+        "URL": "https://weather.com/weather/today/l/e0754c8c5daffd9a4e29b805b2e4a3369b40f7d3b1c7a78c586ed43e66cdcdcf",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Goiania_Climatempo": {
+        "temperatura": "21",
+        "umidade": "83",
+        "vento": "0 - 15",
+        "qualidade_do_ar": "Satisfatorio",
+        "sensacao_termica": "21",
+        "URL": "https://www.climatempo.com.br/previsao-do-tempo/agora/cidade/88/goiania-go",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Goiania_AccuWeather": {
+        "temperatura": "21",
+        "umidade": "82",
+        "vento": "9 - 9",
+        "qualidade_do_ar": "Razoavel",
+        "sensacao_termica": "21",
+        "URL": "https://www.accuweather.com/pt/br/goi%C3%A2nia/43599/weather-forecast/43599",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Goiania_Weather": {
+        "temperatura": "21",
+        "umidade": "90",
+        "vento": "10",
+        "qualidade_do_ar": "Good",
+        "sensacao_termica": "21",
+        "URL": "https://weather.com/weather/today/l/f9062d5dcb4e3d4b67bd7a5d00b91bf5bac6a2fe76dfc41dc2f18c97f73d751b",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Sao Luis_Climatempo": {
+        "temperatura": "26",
+        "umidade": "81",
+        "vento": "0 - 8",
+        "qualidade_do_ar": "Bom",
+        "sensacao_termica": "26",
+        "URL": "https://www.climatempo.com.br/previsao-do-tempo/agora/cidade/94/saoluis-ma",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Sao Luis_AccuWeather": {
+        "temperatura": "26",
+        "umidade": "84",
+        "vento": "24 - 33",
+        "qualidade_do_ar": "Razoavel",
+        "sensacao_termica": "28",
+        "URL": "https://www.accuweather.com/pt/br/s%C3%A3o-lu%C3%ADs/44127/weather-forecast/44127",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Sao Luis_Weather": {
+        "temperatura": "27",
+        "umidade": "81",
+        "vento": "16",
+        "qualidade_do_ar": "Good",
+        "sensacao_termica": "30",
+        "URL": "https://weather.com/weather/today/l/2ffbab3249f04aa731aaa65d2acca77fa5edae558e762dce2547bf8c8793982f",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Cuiaba_Climatempo": {
+        "temperatura": "27",
+        "umidade": "79",
+        "vento": "0 - 13",
+        "qualidade_do_ar": "Moderado",
+        "sensacao_termica": "27",
+        "URL": "https://www.climatempo.com.br/previsao-do-tempo/agora/cidade/218/cuiaba-mt",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Cuiaba_AccuWeather": {
+        "temperatura": "25",
+        "umidade": "86",
+        "vento": "10 - 22",
+        "qualidade_do_ar": "Excelente",
+        "sensacao_termica": "28",
+        "URL": "https://www.accuweather.com/pt/br/cuiab%C3%A1/44281/weather-forecast/44281",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Cuiaba_Weather": {
+        "temperatura": "27",
+        "umidade": "79",
+        "vento": "10",
+        "qualidade_do_ar": "Good",
+        "sensacao_termica": "29",
+        "URL": "https://weather.com/weather/today/l/9d1c089a429e61e2a21333531de27441fb655a94448d2caa02c5b3140fff5cbc",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Campo Grande_Climatempo": {
+        "temperatura": "27",
+        "umidade": "54",
+        "vento": "0 - 14",
+        "qualidade_do_ar": "Satisfatorio",
+        "sensacao_termica": "27",
+        "URL": "https://www.climatempo.com.br/previsao-do-tempo/agora/cidade/212/campogrande-ms",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Campo Grande_AccuWeather": {
+        "temperatura": "27",
+        "umidade": "61",
+        "vento": "15 - 15",
+        "qualidade_do_ar": "Excelente",
+        "sensacao_termica": "27",
+        "URL": "https://www.accuweather.com/pt/br/campo-grande/33738/weather-forecast/33738",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Campo Grande_Weather": {
+        "temperatura": "26",
+        "umidade": "63",
+        "vento": "14",
+        "qualidade_do_ar": "Good",
+        "sensacao_termica": "28",
+        "URL": "https://weather.com/weather/today/l/6b88ebbca2977734a5989052721b85e8f59c7885d8967bddd0bd8a03bd30368f",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Belo Horizonte_Climatempo": {
+        "temperatura": "16",
+        "umidade": "89",
+        "vento": "0 - 23",
+        "qualidade_do_ar": "Satisfatorio",
+        "sensacao_termica": "16",
+        "URL": "https://www.climatempo.com.br/previsao-do-tempo/agora/cidade/107/belohorizonte-mg",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Belo Horizonte_AccuWeather": {
+        "temperatura": "18",
+        "umidade": "88",
+        "vento": "13 - 22",
+        "qualidade_do_ar": "Razoavel",
+        "sensacao_termica": "17",
+        "URL": "https://www.accuweather.com/pt/br/belo-horizonte/44403/weather-forecast/44403",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Belo Horizonte_Weather": {
+        "temperatura": "19",
+        "umidade": "84",
+        "vento": "10",
+        "qualidade_do_ar": "Good",
+        "sensacao_termica": "19",
+        "URL": "https://weather.com/weather/today/l/6e7a77b91a7ca5a864687e298cb47202240730a385f7cd1adf7227170935758f",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Belem_Climatempo": {
+        "temperatura": "26",
+        "umidade": "85",
+        "vento": "0 - 5",
+        "qualidade_do_ar": "Bom",
+        "sensacao_termica": "26",
+        "URL": "https://www.climatempo.com.br/previsao-do-tempo/agora/cidade/232/belem-pa",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Belem_AccuWeather": {
+        "temperatura": "26",
+        "umidade": "88",
+        "vento": "6 - 6",
+        "qualidade_do_ar": "Razoavel",
+        "sensacao_termica": "31",
+        "URL": "https://www.accuweather.com/pt/br/bel%C3%A9m/44857/weather-forecast/44857",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Belem_Weather": {
+        "temperatura": "26",
+        "umidade": "89",
+        "vento": "5",
+        "qualidade_do_ar": "Moderate",
+        "sensacao_termica": "26",
+        "URL": "https://weather.com/weather/today/l/529a77f7398a2247cdb7de32f626019c5ee4c43c40af706655f9f96652c72734",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Joao Pessoa_Climatempo": {
+        "temperatura": "25",
+        "umidade": "84",
+        "vento": "0 - 17",
+        "qualidade_do_ar": "Bom",
+        "sensacao_termica": "25",
+        "URL": "https://www.climatempo.com.br/previsao-do-tempo/agora/cidade/256/joaopessoa-pb",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Joao Pessoa_AccuWeather": {
+        "temperatura": "26",
+        "umidade": "82",
+        "vento": "18 - 36",
+        "qualidade_do_ar": "Razoavel",
+        "sensacao_termica": "29",
+        "URL": "https://www.accuweather.com/pt/br/jo%C3%A3o-pessoa/34631/weather-forecast/34631",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Joao Pessoa_Weather": {
+        "temperatura": "24",
+        "umidade": "87",
+        "vento": "5",
+        "qualidade_do_ar": "Good",
+        "sensacao_termica": "24",
+        "URL": "https://weather.com/weather/today/l/4a387b8e0e187f1d7c1984040cc57c8cfe0cd9494d15895aacad7109da999693",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Curitiba_Climatempo": {
+        "temperatura": "17",
+        "umidade": "93",
+        "vento": "0 - 13",
+        "qualidade_do_ar": "Bom",
+        "sensacao_termica": "17",
+        "URL": "https://www.climatempo.com.br/previsao-do-tempo/agora/cidade/271/curitiba-pr",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Curitiba_AccuWeather": {
+        "temperatura": "17",
+        "umidade": "93",
+        "vento": "18 - 38",
+        "qualidade_do_ar": "Razoavel",
+        "sensacao_termica": "14",
+        "URL": "https://www.accuweather.com/pt/br/curitiba/44944/weather-forecast/44944",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Curitiba_Weather": {
+        "temperatura": "16",
+        "umidade": "92",
+        "vento": "13",
+        "qualidade_do_ar": "Good",
+        "sensacao_termica": "16",
+        "URL": "https://weather.com/weather/today/l/1f41c866e4490de90170d663657c430eaa1a97bc6ed8d9d7a519df5389b08828",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Recife_Climatempo": {
+        "temperatura": "24",
+        "umidade": "84",
+        "vento": "0 - 8",
+        "qualidade_do_ar": "Bom",
+        "sensacao_termica": "24",
+        "URL": "https://www.climatempo.com.br/previsao-do-tempo/agora/cidade/259/recife-pe",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Recife_AccuWeather": {
+        "temperatura": "26",
+        "umidade": "76",
+        "vento": "13 - 29",
+        "qualidade_do_ar": "Razoavel",
+        "sensacao_termica": "27",
+        "URL": "https://www.accuweather.com/pt/br/recife/45090/weather-forecast/45090",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Recife_Weather": {
+        "temperatura": "26",
+        "umidade": "79",
+        "vento": "14",
+        "qualidade_do_ar": "Good",
+        "sensacao_termica": "29",
+        "URL": "https://weather.com/weather/today/l/3d85be48c4efa85f4332925e699b20e5e10357e9a6afd2e150704dd113faf786",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Teresina_Climatempo": {
+        "temperatura": "28",
+        "umidade": "70",
+        "vento": "0 - 18",
+        "qualidade_do_ar": "Bom",
+        "sensacao_termica": "28",
+        "URL": "https://www.climatempo.com.br/previsao-do-tempo/agora/cidade/264/teresina-pi",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Teresina_AccuWeather": {
+        "temperatura": "27",
+        "umidade": "73",
+        "vento": "15 - 15",
+        "qualidade_do_ar": "Razoavel",
+        "sensacao_termica": "29",
+        "URL": "https://www.accuweather.com/pt/br/teresina/45253/weather-forecast/45253",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Teresina_Weather": {
+        "temperatura": "27",
+        "umidade": "74",
+        "vento": "14",
+        "qualidade_do_ar": "Moderate",
+        "sensacao_termica": "29",
+        "URL": "https://weather.com/weather/today/l/ba888e306c69eb0078024aeb054844f7364a20e7a6aa065b555eb0e640eea974",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Rio de Janeiro_Climatempo": {
+        "temperatura": "19",
+        "umidade": "96",
+        "vento": "0 - 10",
+        "qualidade_do_ar": "Forte",
+        "sensacao_termica": "19",
+        "URL": "https://www.climatempo.com.br/previsao-do-tempo/agora/cidade/321/riodejaneiro-rj",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Rio de Janeiro_AccuWeather": {
+        "temperatura": "22",
+        "umidade": "82",
+        "vento": "10 - 16",
+        "qualidade_do_ar": "Razoavel",
+        "sensacao_termica": "22",
+        "URL": "https://www.accuweather.com/pt/br/rio-de-janeiro/45449/weather-forecast/45449",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Rio de Janeiro_Weather": {
+        "temperatura": "21",
+        "umidade": "87",
+        "vento": "10",
+        "qualidade_do_ar": "Moderate",
+        "sensacao_termica": "21",
+        "URL": "https://weather.com/weather/today/l/1ff5f708415c0675e9ddf27ec2c0fb81d235f4b1730d12b3c90879c0c16f7148",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Natal_Climatempo": {
+        "temperatura": "24",
+        "umidade": "89",
+        "vento": "0 - 12",
+        "qualidade_do_ar": "Bom",
+        "sensacao_termica": "24",
+        "URL": "https://www.climatempo.com.br/previsao-do-tempo/agora/cidade/334/natal-rn",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Natal_AccuWeather": {
+        "temperatura": "26",
+        "umidade": "83",
+        "vento": "19 - 38",
+        "qualidade_do_ar": "Razoavel",
+        "sensacao_termica": "28",
+        "URL": "https://www.accuweather.com/pt/br/natal/35658/weather-forecast/35658",
+        "timestamp": "2024-10-31 01:34"
+    },
+    "Natal_Weather": {
+        "temperatura": "24",
+        "umidade": "84",
+        "vento": "11",
+        "qualidade_do_ar": "Good",
+        "sensacao_termica": "24",
+        "URL": "https://weather.com/weather/today/l/19fd33420ee4c8b43e31f59094c09611edf1a68c9791aadab1fdc5428fbfe933",
+        "timestamp": "2024-10-31 01:35"
+    },
+    "Porto Alegre_Climatempo": {
+        "temperatura": "21",
+        "umidade": "85",
+        "vento": "0 - 15",
+        "qualidade_do_ar": "Bom",
+        "sensacao_termica": "21",
+        "URL": "https://www.climatempo.com.br/previsao-do-tempo/agora/cidade/363/portoalegre-rs",
+        "timestamp": "2024-10-31 01:35"
+    },
+    "Porto Alegre_AccuWeather": {
+        "temperatura": "21",
+        "umidade": "85",
+        "vento": "25 - 47",
+        "qualidade_do_ar": "Razoavel",
+        "sensacao_termica": "19",
+        "URL": "https://www.accuweather.com/pt/br/porto-alegre/45561/weather-forecast/45561",
+        "timestamp": "2024-10-31 01:35"
+    },
+    "Porto Alegre_Weather": {
+        "temperatura": "21",
+        "umidade": "85",
+        "vento": "13",
+        "qualidade_do_ar": "Good",
+        "sensacao_termica": "21",
+        "URL": "https://weather.com/weather/today/l/03b1148e398c4397d9c274ecd99b1477eea4dc2c4f382bc6b7cdd51c9f4c2226",
+        "timestamp": "2024-10-31 01:35"
+    },
+    "Porto Velho_Climatempo": {
+        "temperatura": "28",
+        "umidade": "74",
+        "vento": "0 - 11",
+        "qualidade_do_ar": "Satisfatorio",
+        "sensacao_termica": "28",
+        "URL": "https://www.climatempo.com.br/previsao-do-tempo/agora/cidade/343/portovelho-ro",
+        "timestamp": "2024-10-31 01:35"
+    },
+    "Porto Velho_AccuWeather": {
+        "temperatura": "26",
+        "umidade": "85",
+        "vento": "4 - 11",
+        "qualidade_do_ar": "Razoavel",
+        "sensacao_termica": "30",
+        "URL": "https://www.accuweather.com/pt/br/porto-velho/35941/weather-forecast/35941",
+        "timestamp": "2024-10-31 01:35"
+    },
+    "Porto Velho_Weather": {
+        "temperatura": "27",
+        "umidade": "75",
+        "vento": "0",
+        "qualidade_do_ar": "Moderate",
+        "sensacao_termica": "31",
+        "URL": "https://weather.com/weather/today/l/2768f085da99b32e071341a2441d2620a549b05a06d130c0d1a1f125a07e0eb4",
+        "timestamp": "2024-10-31 01:35"
+    },
+    "Boa Vista_Climatempo": {
+        "temperatura": "28",
+        "umidade": "61",
+        "vento": "0 - 8",
+        "qualidade_do_ar": "Bom",
+        "sensacao_termica": "28",
+        "URL": "https://www.climatempo.com.br/previsao-do-tempo/agora/cidade/347/boavista-rr",
+        "timestamp": "2024-10-31 01:35"
+    },
+    "Boa Vista_AccuWeather": {
+        "temperatura": "29",
+        "umidade": "65",
+        "vento": "7 - 7",
+        "qualidade_do_ar": "Razoavel",
+        "sensacao_termica": "32",
+        "URL": "https://www.accuweather.com/pt/br/boa-vista/35950/weather-forecast/35950",
+        "timestamp": "2024-10-31 01:35"
+    },
+    "Boa Vista_Weather": {
+        "temperatura": "28",
+        "umidade": "68",
+        "vento": "8",
+        "qualidade_do_ar": "Moderate",
+        "sensacao_termica": "32",
+        "URL": "https://weather.com/weather/today/l/21e58e59f8d6a87c1e91e0e55fbc8bb89a25f0ffe7f4f8039e42c8729c013fbd",
+        "timestamp": "2024-10-31 01:35"
+    },
+    "Sao Paulo_Climatempo": {
+        "temperatura": "17",
+        "umidade": "87",
+        "vento": "0 - 6",
+        "qualidade_do_ar": "Satisfatorio",
+        "sensacao_termica": "17",
+        "URL": "https://www.climatempo.com.br/previsao-do-tempo/agora/cidade/558/saopaulo-sp",
+        "timestamp": "2024-10-31 01:35"
+    },
+    "Sao Paulo_AccuWeather": {
+        "temperatura": "18",
+        "umidade": "82",
+        "vento": "16 - 34",
+        "qualidade_do_ar": "Razoavel",
+        "sensacao_termica": "17",
+        "URL": "https://www.accuweather.com/pt/br/s%C3%A3o-paulo/45881/weather-forecast/45881",
+        "timestamp": "2024-10-31 01:35"
+    },
+    "Sao Paulo_Weather": {
+        "temperatura": "18",
+        "umidade": "85",
+        "vento": "13",
+        "qualidade_do_ar": "Good",
+        "sensacao_termica": "17",
+        "URL": "https://weather.com/weather/today/l/ebe93c0e09d0cfe19844d4281461901cd8f083c310e64255954758c8dcab784b",
+        "timestamp": "2024-10-31 01:35"
+    },
+    "Aracaju_Climatempo": {
+        "temperatura": "26",
+        "umidade": "65",
+        "vento": "0 - 14",
+        "qualidade_do_ar": "Bom",
+        "sensacao_termica": "26",
+        "URL": "https://www.climatempo.com.br/previsao-do-tempo/agora/cidade/384/aracaju-se",
+        "timestamp": "2024-10-31 01:35"
+    },
+    "Aracaju_AccuWeather": {
+        "temperatura": "25",
+        "umidade": "79",
+        "vento": "19 - 40",
+        "qualidade_do_ar": "Razoavel",
+        "sensacao_termica": "26",
+        "URL": "https://www.accuweather.com/pt/br/aracaju/36757/weather-forecast/36757",
+        "timestamp": "2024-10-31 01:35"
+    },
+    "Aracaju_Weather": {
+        "temperatura": "26",
+        "umidade": "74",
+        "vento": "18",
+        "qualidade_do_ar": "Moderate",
+        "sensacao_termica": "26",
+        "URL": "https://weather.com/weather/today/l/43d4fbadd7efbf4316f9bc45f7141e2b6f1e495e6f9c16c9f558f59615448d9a",
+        "timestamp": "2024-10-31 01:35"
+    },
+    "Palmas_Climatempo": {
+        "temperatura": "25",
+        "umidade": "89",
+        "vento": "0 - 10",
+        "qualidade_do_ar": "Satisfatorio",
+        "sensacao_termica": "25",
+        "URL": "https://www.climatempo.com.br/previsao-do-tempo/agora/cidade/593/palmas-to",
+        "timestamp": "2024-10-31 01:35"
+    },
+    "Palmas_AccuWeather": {
+        "temperatura": "25",
+        "umidade": "87",
+        "vento": "8 - 19",
+        "qualidade_do_ar": "Razoavel",
+        "sensacao_termica": "27",
+        "URL": "https://www.accuweather.com/pt/br/palmas/36879/weather-forecast/36879",
+        "timestamp": "2024-10-31 01:35"
+    },
+    "Palmas_Weather": {
+        "temperatura": "24",
+        "umidade": "93",
+        "vento": "3",
+        "qualidade_do_ar": "Moderate",
+        "sensacao_termica": "24",
+        "URL": "https://weather.com/weather/today/l/3e1f452d6f504871e31b028827eed2b4d9ca68dfb5cb5719bd979a2721eebfc5",
+        "timestamp": "2024-10-31 01:35"
+    }
+}
